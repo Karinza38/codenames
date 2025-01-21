@@ -1,4 +1,4 @@
-# Codenames
+ # Codenames
 
 [![PyPI version](https://badge.fury.io/py/codenames.svg)](https://badge.fury.io/py/codenames)
 [![Pipeline](https://github.com/asaf-kali/codenames/actions/workflows/pipeline.yml/badge.svg)](https://github.com/asaf-kali/codenames/actions/workflows/pipeline.yml)
